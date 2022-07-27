@@ -1,0 +1,24 @@
+  math> 3+9
+  12
+  math> 3  +  19
+  22
+  math> 23  + 98
+  121
+  math> 25 - 432
+  -407
+  math> 4 + 6 + 12
+  10
+  math> 4
+  Error parsing input
+  math> +
+  Error parsing input
+  math> 5 + 
+  Error parsing input
+  math> ;
+  Error parsing input
+  math> 
+
+
+/* Masih bisa (menjumlahkan atau mengurangkan) 2 angka, dan banyak digit
+/* Mampu menangani space
+/* Belum bisa angka negatif
