@@ -1,0 +1,16 @@
+  math> 3
+  Error parsing input
+  math> 7+
+  Error parsing input
+  math> {
+  Error parsing input
+  math> 3+9+8
+  12
+  math> 5+7
+  12
+  math> 3+2
+  5
+  math> 
+
+
+/* Masih bisa menjumlahkan 2 angka, dan 1 digit saja
