@@ -1,0 +1,25 @@
+  math> 3
+  3
+  math> 7  - 4
+  3
+  math> 10 +    5
+  15
+  math> 7 - 3 + 2 - 1
+  5
+  math> 10 + 1 + 2 - 3 + 4 + 6 - 15
+  5
+  math> 3 +
+  Error parsing input
+  math> {
+  Error parsing input
+  math> 3 + 8 --
+  Error parsing input
+  math> 345 + 87 - 34
+  398
+  math> 
+
+
+/* Mampu menjumlahkan banyak angka dan banyak operator
+/* Masih mampu penjumlahan dan pengurangan
+/* Mampu menangani space
+/* Belum bisa angka negatif
