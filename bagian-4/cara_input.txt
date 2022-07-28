@@ -1,0 +1,24 @@
+  math> 3
+  3
+  math> 7 * 4 / 2
+  14
+  math> 7 * 4 / 2 * 3
+  42
+  math> 10 * 4  * 2 * 3 / 8
+  30
+  math> 123 * 54 / 33
+  201.273
+  math> 3 * u
+  Invalid character
+  math> 3 **
+  Invalid Syntax
+  math> 
+ 
+
+
+/* Mampu menjumlahkan banyak angka dan (2 eperator)
+/* Mampu menangani space
+/* Mampu menangani 2 jenis error
+/* Masih mampu perkalian dan pembagian
+/* Belum bisa angka negatif
+/* Belum bisa bilangan desimal
