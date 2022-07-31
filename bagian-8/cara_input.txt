@@ -1,0 +1,29 @@
+  math> -  3
+  -3
+  math> + 3
+  3
+  math> 5 - - - + - 3
+  8
+  math> 5 - - - + - (3 + 4) - +2
+  10
+  math> - (4 * 7) + 9
+  -19
+  math> - (4 * 7) + 9 / -42
+  -28.2143
+  math> -8 --
+  Invalid Syntax
+  math> -9 + !
+  Invalid character
+  math> 
+  
+
+
+/* Mampu menjumlahkan banyak angka dan (4 operator)
+/* Mampu perkalian, pembagian, penjumlahan dan pengurangan
+/* Mampu melihat hirarki operator, perkalian dan pembagian terlebih dahulu kemudian 
+   penjumlahan dan pengurangan
+/* Mampu membaca hirarki dalam kurung
+/* Mampu menangani 2 jenis error
+/* Mampu menangani space
+/* Mampu menghitung angka negatif
+/* Belum bisa bilangan desimal
